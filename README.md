@@ -4,7 +4,7 @@ Schach im Browser – gegen Bots, die zu deiner ELO passen, oder online gegen Fr
 
 ## ▶️ Jetzt spielen
 
-**https://tillwassenhoven1-glitch.github.io/schach/**
+**https://tillwassenhoven1-glitch.github.io/Schach/**
 
 Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮
 
